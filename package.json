@@ -1,0 +1,24 @@
+{
+  "name": "postcss-analytics",
+  "version": "0.0.1",
+  "description": "Does stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colshacol/postcss-analytics.git"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "analytics"
+  ],
+  "author": "Colton Colcleasure <colshacol@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colshacol/postcss-analytics/issues"
+  },
+  "homepage": "https://github.com/colshacol/postcss-analytics#readme"
+}
